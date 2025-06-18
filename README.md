@@ -43,4 +43,5 @@ Fraud Detection insights using the is_fraud flag
 
 Using a 10,000‑row subset, the findings are reliable and scalable for enterprise deployment
 
-CREDIT CARD REPORT PREVIEW https://github.com/Adarsh6055/Credit-Card-Transaction-Analysis-/blob/main/CREDIT%20CARD%20REPORT.png
+
+CREDIT CARD REPORT PREVIEW (https://github.com/Adarsh6055/Credit-Card-Transaction-Analysis-/blob/main/CREDIT%20CARD%20REPORT.png)
